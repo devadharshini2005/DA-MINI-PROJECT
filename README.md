@@ -36,3 +36,5 @@ Mental Health Survey Data
 o Number of Columns: 25
 
 o Number of Rows: 1,000+
+
+https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey?resource=download
