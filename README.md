@@ -2,6 +2,7 @@
 PREDICTING MENTAL HEALTH CRISIS ANALYSIS DASHBOARD
 
 ABSTRACT 
+
    The rise of mental health concerns in the modern workplace, particularly within high-
 pressure environments such as the tech industry, has brought attention to the urgent need for
 predictive tools to identify individuals at risk of mental health crises. This project aims to
@@ -31,5 +32,7 @@ relevance for future analyses and decision-making processes.
 
 
 Mental Health Survey Data
+
 o Number of Columns: 25
+
 o Number of Rows: 1,000+
